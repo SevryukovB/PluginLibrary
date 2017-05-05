@@ -1,0 +1,8 @@
+C:\Users\sevryukovb\documents\visual studio 2017\Projects\PluginLibrary\ConsoleDemo\obj\Debug\ConsoleDemo.csprojResolveAssemblyReference.cache
+C:\Users\sevryukovb\documents\visual studio 2017\Projects\PluginLibrary\ConsoleDemo\bin\Debug\ConsoleDemo.exe.config
+C:\Users\sevryukovb\documents\visual studio 2017\Projects\PluginLibrary\ConsoleDemo\bin\Debug\ConsoleDemo.exe
+C:\Users\sevryukovb\documents\visual studio 2017\Projects\PluginLibrary\ConsoleDemo\bin\Debug\ConsoleDemo.pdb
+C:\Users\sevryukovb\documents\visual studio 2017\Projects\PluginLibrary\ConsoleDemo\bin\Debug\PluginLibrary.dll
+C:\Users\sevryukovb\documents\visual studio 2017\Projects\PluginLibrary\ConsoleDemo\bin\Debug\PluginLibrary.pdb
+C:\Users\sevryukovb\documents\visual studio 2017\Projects\PluginLibrary\ConsoleDemo\obj\Debug\ConsoleDemo.exe
+C:\Users\sevryukovb\documents\visual studio 2017\Projects\PluginLibrary\ConsoleDemo\obj\Debug\ConsoleDemo.pdb
